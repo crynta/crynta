@@ -6,15 +6,15 @@
 
 ---
 
-SWE & Product Engineer building <a href="https://terax.app">Terax</a> (8.5K+ stars). Previously worked in fintech, AI startups, etc.
+SWE & Product Engineer building <a href="https://terax.app">Terax</a> (9K+ stars) and Zephium browser.
 
-Among all of this, open-source and content creation is where I find the most purpose. And I'll continue building high-quality, actually useful FOSS projects for the community.
+Previously worked in fintech, AI startups, built a full metadata editor for photographers.
 
 ---
 
 #### Leetcode stats in 2025, why not :) 
 <img src="leetcode.png" alt="LeetCode 2024-2025 Activity" width="771" height="366">
 
-##### 📫  Contact: info@terax.app
+##### 📫  Contact:⠀ info@terax.app⠀ / ⠀info@zephium.app
 
 </div>
