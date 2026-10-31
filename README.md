@@ -15,6 +15,6 @@ Previously worked in fintech/banking, AI startups, built a fully-featured metada
 #### Leetcode stats in 2025, why not :) 
 <img src="leetcode.png" alt="LeetCode 2024-2025 Activity" width="771" height="366">
 
-##### 📫  Contact:⠀founder@zephium.app / info@terax.app
+##### 📫  Contact:⠀founder@zephium.app⠀ / ⠀info@terax.app
 
 </div>
