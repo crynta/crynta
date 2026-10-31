@@ -6,7 +6,7 @@
 
 ---
 
-SWE & Product Engineer building <a href="https://terax.app">Terax</a> (9.4K+ stars) and <a href="https://zephium.app">Zephium browser<a/>.
+Founder & Product Engineer building <a href="https://terax.app">Terax</a> (9.4K+ stars) and <a href="https://zephium.app">Zephium browser<a/>.
 
 Previously worked in fintech/banking, AI startups, built a fully-featured metadata editor for photographers.
 
